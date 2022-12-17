@@ -26,6 +26,7 @@ Input:
 `
 python3 pagerank.py --data=data/lawfareblog.csv.gz --search_query='weapons'
 `
+
 Output:
 ```
 INFO:gensim.models.keyedvectors:precomputing L2-norms of word weight vectors
