@@ -175,7 +175,7 @@ class WebGraph():
             return x.squeeze()
 
 
-    def search(self, pi, query='', max_results=10, s_weight = .03, power =30):
+    def search(self, pi, query = '', max_results = 10, s_weight = .05, power = 30):
         '''
         Logs all urls that match the query.
         Results are displayed in sorted order according to the pagerank vector pi.
