@@ -35,8 +35,8 @@ INFO:root:rank=1 pagerank=9.100283748275636e-09 url=www.lawfareblog.com/dc-distr
 INFO:root:rank=2 pagerank=8.284769709338576e-09 url=www.lawfareblog.com/update-military-commissions-big-september-911-case
 INFO:root:rank=3 pagerank=7.019284727575627e-09 url=www.lawfareblog.com/slaughterbots-and-other-anticipated-autonomous-weapons-problems
 INFO:root:rank=4 pagerank=6.486902929488576e-09 url=www.lawfareblog.com/why-did-you-wait-moral-emptiness-and-drone-strikes
-INFO:root:rank=5 pagerank=6.103993857678298e-09 url=www.lawfareblog.com/week-military-commissions-98-session-kangaroo-lapel-pin-edition
-INFO:root:rank=6 pagerank=6.394069381828495e-09 url=www.lawfareblog.com/revived-cia-drone-strike-program-comments-new-policy
+INFO:root:rank=5 pagerank=6.303993857678298e-09 url=www.lawfareblog.com/week-military-commissions-98-session-kangaroo-lapel-pin-edition
+INFO:root:rank=6 pagerank=6.194069381828495e-09 url=www.lawfareblog.com/revived-cia-drone-strike-program-comments-new-policy
 INFO:root:rank=7 pagerank=6.049686728193848e-09 url=www.lawfareblog.com/court-military-commissions-review-upholds-life-sentence-al-bahlul
 INFO:root:rank=8 pagerank=4.949629102938577e-09 url=www.lawfareblog.com/georgetown-laws-comprehensive-foreign-intelligence-law-collection
 INFO:root:rank=9 pagerank=3.101746689102938e-09 url=www.lawfareblog.com/waiving-imminent-threat-test-cia-drone-strikes-pakistan
