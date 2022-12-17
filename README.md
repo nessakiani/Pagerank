@@ -6,7 +6,7 @@ $ python3 pagerank.py --data=./lawfareblog.csv.gz --search_query='weapons'
 `
 
 Output:
-`
+```
 INFO:gensim.models.keyedvectors:precomputing L2-norms of word weight vectors
 INFO:root:rank=0 pagerank=0.004571518860757351 url=www.lawfareblog.com/why-did-you-wait-moral-emptiness-and-drone-strikes
 INFO:root:rank=1 pagerank=0.0031107424292713404 url=www.lawfareblog.com/dc-district-court-dismisses-journalists-drone-lawsuit
@@ -18,7 +18,7 @@ INFO:root:rank=6 pagerank=0.0011276121949777007 url=www.lawfareblog.com/german-c
 INFO:root:rank=7 pagerank=0.0009182740192837191 url=www.lawfareblog.com/week-military-commissions-98-session-kangaroo-lapel-pin-edition
 INFO:root:rank=8 pagerank=0.0007856971933506429 url=www.lawfareblog.com/waiving-imminent-threat-test-cia-drone-strikes-pakistan
 INFO:root:rank=9 pagerank=0.0007412837585434318 url=www.lawfareblog.com/drone-strike-errors-and-hostage-tragedy-mapping-issues-newly-catalyzed-debate
-`
+```
 
 Task 2: ranking with word importance
 
@@ -27,7 +27,7 @@ Input:
 python3 pagerank.py --data=data/lawfareblog.csv.gz --search_query='biden' --s_weight=.01
 `
 Output:
-`
+```
 INFO:gensim.models.keyedvectors:precomputing L2-norms of word weight vectors
 INFO:root:rank=0 pagerank=0.02051282301545143 url=www.lawfareblog.com/new-obama-biden-campaign-bumper-sticker
 INFO:root:rank=1 pagerank=0.0109577476978302 url=www.lawfareblog.com/trump-encourages-china-investigate-biden-family-clouding-trade-talks
@@ -39,4 +39,4 @@ INFO:root:rank=6 pagerank=0.000671088753733784 url=www.lawfareblog.com/president
 INFO:root:rank=7 pagerank=0.0006702161044813693 url=www.lawfareblog.com/obamas-moral-muse
 INFO:root:rank=8 pagerank=0.0006524198688566685 url=www.lawfareblog.com/obamas-legacy-law-transparency-and-politics-anguish
 INFO:root:rank=9 pagerank=0.0006270432495512068 url=www.lawfareblog.com/speaking-law-obama-administrations-addresses-national-security-law
-`
+```
